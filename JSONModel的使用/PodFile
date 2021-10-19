@@ -1,0 +1,5 @@
+platform :ios, '7.0'
+target 'JSONModel的使用' do
+pod 'JSONModel'
+end
+
